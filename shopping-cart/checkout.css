@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,400;1,500&display=swap');
+.navbar{
+	display: flex;
+	align-items: center;
+	padding: 20px;
+	margin-right: 4rem;
+	margin-left: 4rem;
+
+}
+.navbar img{
+	width: 30%;
+}
+.navbar li{
+	
+	font-family: 'Nunito', sans-serif;
+	list-style: none;
+
+}
+.navbar a{
+	color: black;
+
+}
+.text-info, .jumbotron ,.justify-content-center,form{
+	font-family: 'Nunito', sans-serif;
+}
+.form-control 
+{
+	margin-left: 6rem;
+	width: 70% !important;
+}
+.form-group .btn
+{
+	   margin-left: 6rem;
+       width: 70% !important;
+}
+

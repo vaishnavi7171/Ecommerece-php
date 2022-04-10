@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,400;1,500&display=swap');
+.navbar{
+	display: flex;
+	align-items: center;
+	padding: 20px;
+	margin-right: 4rem;
+	margin-left: 4rem;
+
+}
+.navbar img{
+	width: 30%;
+}
+.navbar li{
+	
+	font-family: 'Nunito', sans-serif;
+	list-style: none;
+
+}
+.navbar a{
+	color: black;
+
+}
+
+.card-body .card-title {
+	font-family: 'Nunito',sans-serif;
+}
+.card-deck .card{
+	box-shadow: 4px 9px 5px grey;
+}
+.card-footer{
+	background-color: white;
+}
+.form-group input{
+	border-radius: 20px;
+}
+.btn-block{
+	width: 50%;
+	border-radius: 1.25rem;
+}
+.footer-btn{
+	display: flex;
+	justify-content: space-around;
+}
+.footer-link{
+	margin-top: 6px;
+	font-family: 'Nunito',sans-serif;
+}
